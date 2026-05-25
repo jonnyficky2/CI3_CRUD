@@ -162,3 +162,14 @@ Nama class di dalamnya:
 ```php
 class Mahasiswa extends CI_Controller
 ```
+
+## Screenshot Aplikasi
+
+### Halaman Data (CRUD)
+![Data CRUD](assets/images/data.jpg)
+
+### Halaman Tambah Data
+![Tambah Data](assets/images/tambah.jpg)
+
+### Halaman Edit Data
+![Edit Data](assets/images/edit.jpg)
